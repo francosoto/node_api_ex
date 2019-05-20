@@ -1,0 +1,25 @@
+{
+  "name": "node_api_ex",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francosoto/node_api_ex.git"
+  },
+  "author": "Franco Soto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francosoto/node_api_ex/issues"
+  },
+  "homepage": "https://github.com/francosoto/node_api_ex#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.0",
+    "mongodb": "^3.2.4",
+    "winston": "^3.2.1"
+  }
+}
